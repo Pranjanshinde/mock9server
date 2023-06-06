@@ -1,0 +1,71 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "jayesh",
+        "email": "jayesh@123",
+        "password": "1234"
+      },
+      {
+        "name": "mandar",
+        "email": "mandar@123",
+        "password": "1234",
+        "id": 2
+      },
+      {
+        "name": "sumit",
+        "email": "sumit@123",
+        "password": "1234",
+        "id": 3
+      },
+      {
+        "name": "ramesh",
+        "email": "ramesh@123",
+        "password": "1234",
+        "id": 4
+      },
+      {
+        "name": "suresh",
+        "email": "suresh@123",
+        "password": "1234",
+        "id": 5
+      }
+    ],
+    "track": [
+      {
+        "id": 1,
+        "name": "jayesh",
+        "select": "income",
+        "type": "Salary",
+        "amount": 5000,
+        "date": "545465454"
+      },
+      {
+        "id": 2,
+        "name": "jayesh",
+        "select": "expense",
+        "type": "Shopping",
+        "amount": 6000,
+        "date": "545465454"
+      },
+      {
+        "name": "mandar",
+        "select": "income",
+        "type": "Salary",
+        "amount": 5000,
+        "date": "2023-06-05",
+        "id": 3
+      },
+      {
+        "name": "mandar",
+        "select": "expense",
+        "type": "Housing",
+        "amount": 3000,
+        "date": "2023-06-08",
+        "id": 4
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
